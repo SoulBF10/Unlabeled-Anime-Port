@@ -1,0 +1,411 @@
+{
+	"song": {
+		"events": [
+			[
+				20210.5263157895,
+				[
+					[
+						"Set Cam Zoom",
+						"1.5",
+						"7"
+					]
+				]
+			],
+			[
+				30157.8947368421,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						"0.3"
+					]
+				]
+			],
+			[
+				30789.4736842105,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						"12"
+					]
+				]
+			],
+			[
+				50526.3157894737,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						"12"
+					]
+				]
+			],
+			[
+				73105.2631578947,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"430"
+					]
+				]
+			],
+			[
+				73263.1578947369,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"0.8"
+					]
+				]
+			],
+			[
+				78473.6842105263,
+				[
+					[
+						"Play Animation",
+						"shock",
+						"dad"
+					],
+					[
+						"Set Property",
+						"dad.heyTimer",
+						"100000"
+					]
+				]
+			],
+			[
+				78789.4736842105,
+				[
+					[
+						"Camera Follow Pos",
+						"260",
+						"430"
+					]
+				]
+			],
+			[
+				80842.1052631579,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				82815.7894736842,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				83052.6315789474,
+				[
+					[
+						"Set Property",
+						"dad.heyTimer",
+						"0.01"
+					]
+				]
+			],
+			[
+				103263.157894737,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-stare"
+					]
+				]
+			],
+			[
+				103578.947368421,
+				[
+					[
+						"Set Cam Zoom",
+						"1.4",
+						"10"
+					]
+				]
+			],
+			[
+				104842.105263158,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"When a person has extreme social anxiety,"
+					]
+				]
+			],
+			[
+				109263.157894737,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"they struggle to communicate with others."
+					]
+				]
+			],
+			[
+				112105.263157895,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				114157.894736842,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"Bear in mind, they only struggle to form connections."
+					]
+				]
+			],
+			[
+				114315.789473684,
+				[
+					[
+						"Play Animation",
+						"determined",
+						"dad"
+					]
+				]
+			],
+			[
+				119052.631578947,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						"It doesn't mean that they don't want to."
+					]
+				]
+			],
+			[
+				122368.421052632,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				122526.315789474,
+				[
+					[
+						"karaokelyrics",
+						"set",
+						""
+					]
+				]
+			],
+			[
+				127421.052631579,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						"-alt"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt"
+					]
+				]
+			],
+			[
+				135473.684210526,
+				[
+					[
+						"Camera Follow Pos",
+						"260",
+						"430"
+					]
+				]
+			],
+			[
+				135631.578947368,
+				[
+					[
+						"Set Property",
+						"dad.heyTimer",
+						"2000"
+					],
+					[
+						"Play Animation",
+						"shock-alt",
+						"dad"
+					]
+				]
+			],
+			[
+				136421.052631579,
+				[
+					[
+						"Set Cam Zoom",
+						"1.25",
+						"3"
+					]
+				]
+			],
+			[
+				136894.736842105,
+				[
+					[
+						"Alt Idle Animation",
+						"bf",
+						""
+					]
+				]
+			],
+			[
+				137052.631578947,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt2"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				138157.894736842,
+				[
+					[
+						"Play Animation",
+						"idle-alt2",
+						"dad"
+					]
+				]
+			],
+			[
+				139105.263157895,
+				[
+					[
+						"Alt Idle Animation",
+						"dad",
+						"-alt2"
+					]
+				]
+			],
+			[
+				139421.052631579,
+				[
+					[
+						"Alt Idle Animation",
+						"",
+						"boyfriend"
+					]
+				]
+			],
+			[
+				140210.526315789,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				140842.105263158,
+				[
+					[
+						"Set Cam Zoom",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				141473.684210526,
+				[
+					[
+						"Set Cam Zoom",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				152052.631578947,
+				[
+					[
+						"Play Animation",
+						"idle-alt2",
+						"dad"
+					]
+				]
+			],
+			[
+				152210.526315789,
+				[
+					[
+						"Set Property",
+						"dad.heyTimer",
+						"0.01"
+					]
+				]
+			],
+			[
+				154105.263157895,
+				[
+					[
+						"Play Animation",
+						"shock-alt",
+						"dad"
+					],
+					[
+						"Set Property",
+						"dad.heyTimer",
+						"3000"
+					]
+				]
+			],
+			[
+				156631.578947368,
+				[
+					[
+						"Play Animation",
+						"idle-alt2",
+						"dad"
+					]
+				]
+			]
+		]
+	}
+}
