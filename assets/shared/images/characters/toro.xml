@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="toro.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="toro down0000" x="402" y="288" width="132" height="275" frameX="0" frameY="-4" frameWidth="132" frameHeight="279"/>
+	<SubTexture name="toro down0001" x="402" y="288" width="132" height="275" frameX="0" frameY="-4" frameWidth="132" frameHeight="279"/>
+	<SubTexture name="toro down0002" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro down0003" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro down0004" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro down0005" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro down0006" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro down0007" x="807" y="287" width="132" height="279"/>
+	<SubTexture name="toro idle0000" x="673" y="287" width="132" height="283" frameX="0" frameY="-3" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0001" x="673" y="287" width="132" height="283" frameX="0" frameY="-3" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0002" x="268" y="287" width="132" height="284" frameX="0" frameY="-2" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0003" x="268" y="287" width="132" height="284" frameX="0" frameY="-2" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0004" x="673" y="0" width="132" height="285" frameX="0" frameY="-1" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0005" x="673" y="0" width="132" height="285" frameX="0" frameY="-1" frameWidth="132" frameHeight="286"/>
+	<SubTexture name="toro idle0006" x="403" y="0" width="132" height="286"/>
+	<SubTexture name="toro idle0007" x="403" y="0" width="132" height="286"/>
+	<SubTexture name="toro left0000" x="537" y="283" width="134" height="280" frameX="0" frameY="-1" frameWidth="134" frameHeight="281"/>
+	<SubTexture name="toro left0001" x="537" y="283" width="134" height="280" frameX="0" frameY="-1" frameWidth="134" frameHeight="281"/>
+	<SubTexture name="toro left0002" x="537" y="0" width="134" height="281"/>
+	<SubTexture name="toro left0003" x="537" y="0" width="134" height="281"/>
+	<SubTexture name="toro left0004" x="537" y="0" width="134" height="281"/>
+	<SubTexture name="toro left0005" x="537" y="0" width="134" height="281"/>
+	<SubTexture name="toro left0006" x="537" y="0" width="134" height="281"/>
+	<SubTexture name="toro right0000" x="807" y="0" width="132" height="285" frameX="-1" frameY="0" frameWidth="133" frameHeight="285"/>
+	<SubTexture name="toro right0001" x="807" y="0" width="132" height="285" frameX="-1" frameY="0" frameWidth="133" frameHeight="285"/>
+	<SubTexture name="toro right0002" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro right0003" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro right0004" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro right0005" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro right0006" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro right0007" x="268" y="0" width="133" height="285"/>
+	<SubTexture name="toro up0000" x="0" y="0" width="132" height="290"/>
+	<SubTexture name="toro up0001" x="0" y="0" width="132" height="290"/>
+	<SubTexture name="toro up0002" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+	<SubTexture name="toro up0003" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+	<SubTexture name="toro up0004" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+	<SubTexture name="toro up0005" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+	<SubTexture name="toro up0006" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+	<SubTexture name="toro up0007" x="134" y="0" width="132" height="289" frameX="0" frameY="-1" frameWidth="132" frameHeight="290"/>
+</TextureAtlas>

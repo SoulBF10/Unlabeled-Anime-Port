@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="tadano.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="_tadano alt blink0000" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0001" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0002" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0003" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0004" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0005" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0006" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0007" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0008" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0009" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0010" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0011" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0012" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0013" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0014" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt blink0015" x="540" y="1237" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0000" x="1065" y="640" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0001" x="1065" y="640" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0002" x="1065" y="640" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0003" x="1321" y="631" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0004" x="1321" y="631" width="254" height="621"/>
+	<SubTexture name="_tadano alt idle0005" x="1321" y="631" width="254" height="621"/>
+	<SubTexture name="_tadano blink0000" x="281" y="1239" width="257" height="618" frameX="0" frameY="-4" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0001" x="281" y="1239" width="257" height="618" frameX="0" frameY="-4" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0002" x="550" y="614" width="257" height="616" frameX="0" frameY="-6" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0003" x="550" y="614" width="257" height="616" frameX="0" frameY="-6" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0004" x="1053" y="1263" width="255" height="616" frameX="-1" frameY="-5" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0005" x="1053" y="1263" width="255" height="616" frameX="-1" frameY="-5" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0006" x="1566" y="1254" width="254" height="618" frameX="-3" frameY="-3" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0007" x="1566" y="1254" width="254" height="618" frameX="-3" frameY="-3" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0008" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0009" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0010" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0011" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0012" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0013" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0014" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano blink0015" x="1577" y="626" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano down0000" x="588" y="0" width="293" height="607" frameX="0" frameY="-7" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0001" x="588" y="0" width="293" height="607" frameX="0" frameY="-7" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0002" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0003" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0004" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0005" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0006" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0007" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0008" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0009" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0010" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0011" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0012" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0013" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano down0014" x="295" y="0" width="291" height="612" frameX="-3" frameY="0" frameWidth="294" frameHeight="614"/>
+	<SubTexture name="_tadano idle0000" x="1657" y="0" width="257" height="618" frameX="0" frameY="-4" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0001" x="1657" y="0" width="257" height="618" frameX="0" frameY="-4" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0002" x="291" y="619" width="257" height="616" frameX="0" frameY="-6" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0003" x="291" y="619" width="257" height="616" frameX="0" frameY="-6" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0004" x="796" y="1263" width="255" height="616" frameX="-1" frameY="-5" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0005" x="796" y="1263" width="255" height="616" frameX="-1" frameY="-5" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0006" x="1310" y="1263" width="254" height="618" frameX="-3" frameY="-3" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0007" x="1310" y="1263" width="254" height="618" frameX="-3" frameY="-3" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0008" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0009" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0010" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0011" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0012" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0013" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0014" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano idle0015" x="809" y="640" width="254" height="621" frameX="-5" frameY="0" frameWidth="259" frameHeight="622"/>
+	<SubTexture name="_tadano left0000" x="0" y="0" width="293" height="617" frameX="0" frameY="-1" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0001" x="0" y="0" width="293" height="617" frameX="0" frameY="-1" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0002" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0003" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0004" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0005" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0006" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0007" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0008" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0009" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0010" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0011" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0012" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0013" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano left0014" x="0" y="619" width="289" height="618" frameX="-17" frameY="0" frameWidth="306" frameHeight="618"/>
+	<SubTexture name="_tadano right0000" x="0" y="1239" width="279" height="623" frameX="-1" frameY="-17" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0001" x="0" y="1239" width="279" height="623" frameX="-1" frameY="-17" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0002" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0003" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0004" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0005" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0006" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0007" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0008" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0009" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0010" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0011" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0012" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0013" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano right0014" x="883" y="0" width="256" height="638" frameX="0" frameY="0" frameWidth="280" frameHeight="640"/>
+	<SubTexture name="_tadano up0000" x="1141" y="0" width="256" height="629" frameX="-2" frameY="0" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0001" x="1141" y="0" width="256" height="629" frameX="-2" frameY="0" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0002" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0003" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0004" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0005" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0006" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0007" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0008" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0009" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0010" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0011" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0012" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0013" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+	<SubTexture name="_tadano up0014" x="1399" y="0" width="256" height="624" frameX="0" frameY="-5" frameWidth="258" frameHeight="629"/>
+</TextureAtlas>

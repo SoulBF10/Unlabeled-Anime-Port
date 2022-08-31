@@ -1,0 +1,605 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="komi.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="_komi alt down0000" x="1169" y="2759" width="225" height="389"/>
+	<SubTexture name="_komi alt down0001" x="1169" y="2759" width="225" height="389"/>
+	<SubTexture name="_komi alt down0002" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0003" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0004" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0005" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0006" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0007" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0008" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0009" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0010" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0011" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0012" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0013" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0014" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt down0015" x="1375" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt idle0000" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0001" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0002" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0003" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0004" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0005" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0006" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0007" x="1941" y="1955" width="225" height="390" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi alt idle0008" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0009" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0010" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0011" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0012" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0013" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0014" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt idle0015" x="2031" y="0" width="225" height="390"/>
+	<SubTexture name="_komi alt left0000" x="1422" y="2362" width="225" height="390"/>
+	<SubTexture name="_komi alt left0001" x="1422" y="2362" width="225" height="390"/>
+	<SubTexture name="_komi alt left0002" x="2103" y="2739" width="224" height="390" frameX="0" frameY="0" frameWidth="225" frameHeight="390"/>
+	<SubTexture name="_komi alt left0003" x="2103" y="2739" width="224" height="390" frameX="0" frameY="0" frameWidth="225" frameHeight="390"/>
+	<SubTexture name="_komi alt right0000" x="1943" y="1176" width="225" height="390" frameX="0" frameY="0" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0001" x="1943" y="1176" width="225" height="390" frameX="0" frameY="0" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0002" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0003" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0004" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0005" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0006" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0007" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0008" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0009" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0010" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0011" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0012" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0013" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0014" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt right0015" x="459" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt shock0000" x="0" y="2823" width="235" height="389" frameX="-28" frameY="-15" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0001" x="0" y="2823" width="235" height="389" frameX="-28" frameY="-15" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0002" x="1199" y="2359" width="221" height="398" frameX="-2" frameY="0" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0003" x="1199" y="2359" width="221" height="398" frameX="-2" frameY="0" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0004" x="1212" y="1963" width="228" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0005" x="1212" y="1963" width="228" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0006" x="1782" y="780" width="227" height="389" frameX="0" frameY="-9" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0007" x="1782" y="780" width="227" height="389" frameX="0" frameY="-9" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0008" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0009" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0010" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0011" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0012" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0013" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0014" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0015" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0016" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0017" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0018" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0019" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0020" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0021" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0022" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0023" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0024" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0025" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0026" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0027" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0028" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0029" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0030" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0031" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0032" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0033" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0034" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0035" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0036" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0037" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0038" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0039" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0040" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0041" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0042" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0043" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0044" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0045" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0046" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0047" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0048" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0049" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0050" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0051" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0052" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0053" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0054" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0055" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0056" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt shock0057" x="1782" y="388" width="227" height="390" frameX="0" frameY="-8" frameWidth="263" frameHeight="404"/>
+	<SubTexture name="_komi alt up0000" x="1396" y="2759" width="224" height="390"/>
+	<SubTexture name="_komi alt up0001" x="1396" y="2759" width="224" height="390"/>
+	<SubTexture name="_komi alt up0002" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0003" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0004" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0005" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0006" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0007" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0008" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0009" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0010" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0011" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0012" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0013" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0014" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt up0015" x="1149" y="3150" width="224" height="390"/>
+	<SubTexture name="_komi alt2 down0000" x="922" y="3144" width="225" height="389"/>
+	<SubTexture name="_komi alt2 down0001" x="922" y="3144" width="225" height="389"/>
+	<SubTexture name="_komi alt2 down0002" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0003" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0004" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0005" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0006" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0007" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0008" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0009" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0010" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0011" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0012" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0013" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0014" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 down0015" x="1602" y="3151" width="225" height="388" frameX="0" frameY="-1" frameWidth="225" frameHeight="389"/>
+	<SubTexture name="_komi alt2 idle0000" x="1714" y="1562" width="227" height="391" frameX="0" frameY="-3" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0001" x="1714" y="1562" width="227" height="391" frameX="0" frameY="-3" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0002" x="2011" y="392" width="225" height="390" frameX="0" frameY="-1" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0003" x="2011" y="392" width="225" height="390" frameX="0" frameY="-1" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0004" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0005" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0006" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0007" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0008" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0009" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0010" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0011" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0012" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0013" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0014" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 idle0015" x="2011" y="784" width="225" height="390" frameX="0" frameY="0" frameWidth="227" frameHeight="394"/>
+	<SubTexture name="_komi alt2 left0000" x="1649" y="2362" width="225" height="390"/>
+	<SubTexture name="_komi alt2 left0001" x="1649" y="2362" width="225" height="390"/>
+	<SubTexture name="_komi alt2 left0002" x="1848" y="3130" width="224" height="390" frameX="0" frameY="0" frameWidth="225" frameHeight="390"/>
+	<SubTexture name="_komi alt2 left0003" x="1848" y="3130" width="224" height="390" frameX="0" frameY="0" frameWidth="225" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0000" x="1941" y="2347" width="225" height="390" frameX="0" frameY="0" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0001" x="1941" y="2347" width="225" height="390" frameX="0" frameY="0" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0002" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0003" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0004" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0005" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0006" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0007" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0008" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0009" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0010" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0011" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0012" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0013" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0014" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 right0015" x="686" y="3534" width="225" height="389" frameX="-1" frameY="-1" frameWidth="226" frameHeight="390"/>
+	<SubTexture name="_komi alt2 up0000" x="913" y="3535" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0001" x="913" y="3535" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0002" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0003" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0004" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0005" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0006" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0007" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0008" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0009" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0010" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0011" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0012" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0013" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0014" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi alt2 up0015" x="1622" y="2754" width="224" height="390"/>
+	<SubTexture name="_komi blink0000" x="1531" y="389" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0001" x="1531" y="389" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0002" x="1781" y="0" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0003" x="1781" y="0" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0004" x="1282" y="0" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0005" x="1282" y="0" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0006" x="255" y="1962" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0007" x="255" y="1962" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0008" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0009" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0010" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0011" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0012" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0013" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0014" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi blink0015" x="0" y="2037" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi determined0000" x="1023" y="786" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0001" x="1023" y="786" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0002" x="1034" y="0" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0003" x="1034" y="0" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0004" x="1034" y="393" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0005" x="1034" y="393" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0006" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0007" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0008" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0009" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0010" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0011" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0012" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0013" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0014" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0015" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0016" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0017" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0018" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0019" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0020" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0021" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0022" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0023" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0024" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0025" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0026" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0027" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0028" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0029" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0030" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0031" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0032" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0033" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0034" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0035" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0036" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0037" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0038" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0039" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0040" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0041" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0042" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0043" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0044" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0045" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0046" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0047" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0048" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0049" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0050" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0051" x="734" y="1570" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0052" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0053" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0054" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0055" x="1023" y="1179" width="246" height="391" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0056" x="1282" y="391" width="245" height="392" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0057" x="1282" y="391" width="245" height="392" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0058" x="1282" y="391" width="245" height="392" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0059" x="1282" y="391" width="245" height="392" frameX="0" frameY="0" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0060" x="248" y="2355" width="243" height="391" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0061" x="248" y="2355" width="243" height="391" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0062" x="0" y="2430" width="241" height="391" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0063" x="0" y="2430" width="241" height="391" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0064" x="733" y="1963" width="239" height="392" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0065" x="733" y="1963" width="239" height="392" frameX="0" frameY="-1" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0066" x="974" y="1963" width="236" height="394" frameX="0" frameY="-2" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0067" x="974" y="1963" width="236" height="394" frameX="0" frameY="-2" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0068" x="1480" y="1562" width="232" height="405" frameX="0" frameY="-3" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0069" x="1480" y="1562" width="232" height="405" frameX="0" frameY="-3" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0070" x="503" y="1962" width="228" height="417" frameX="0" frameY="-4" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0071" x="503" y="1962" width="228" height="417" frameX="0" frameY="-4" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0072" x="503" y="1962" width="228" height="417" frameX="0" frameY="-4" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0073" x="503" y="1962" width="228" height="417" frameX="0" frameY="-4" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0074" x="259" y="1256" width="225" height="443" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0075" x="259" y="1256" width="225" height="443" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0076" x="259" y="1256" width="225" height="443" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0077" x="259" y="1256" width="225" height="443" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0078" x="288" y="0" width="225" height="468" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0079" x="288" y="0" width="225" height="468" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0080" x="288" y="0" width="225" height="468" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0081" x="288" y="0" width="225" height="468" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0082" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0083" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0084" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0085" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0086" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0087" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0088" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0089" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0090" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0091" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0092" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0093" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0094" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0095" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0096" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0097" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0098" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0099" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0100" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0101" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0102" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0103" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0104" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0105" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0106" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0107" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0108" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0109" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0110" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0111" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0112" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0113" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0114" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0115" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0116" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0117" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0118" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0119" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0120" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0121" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0122" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0123" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0124" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0125" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0126" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0127" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0128" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0129" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0130" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0131" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0132" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0133" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0134" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0135" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0136" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0137" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0138" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0139" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0140" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0141" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0142" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0143" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0144" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0145" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0146" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0147" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0148" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0149" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0150" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0151" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0152" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0153" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0154" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0155" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0156" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0157" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0158" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0159" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0160" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0161" x="1714" y="1955" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0162" x="1442" y="1969" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0163" x="1442" y="1969" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0164" x="1442" y="1969" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0165" x="1442" y="1969" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0166" x="972" y="2359" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0167" x="972" y="2359" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0168" x="972" y="2359" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0169" x="972" y="2359" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0170" x="715" y="2749" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0171" x="715" y="2749" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0172" x="715" y="2749" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0173" x="715" y="2749" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0174" x="468" y="3141" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0175" x="468" y="3141" width="225" height="391" frameX="0" frameY="-8" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0176" x="232" y="3531" width="225" height="391" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0177" x="232" y="3531" width="225" height="391" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0178" x="0" y="3603" width="225" height="391" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0179" x="0" y="3603" width="225" height="391" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0180" x="942" y="2752" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0181" x="942" y="2752" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0182" x="695" y="3142" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0183" x="695" y="3142" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0184" x="695" y="3142" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0185" x="695" y="3142" width="225" height="390" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0186" x="1876" y="2739" width="225" height="389" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0187" x="1876" y="2739" width="225" height="389" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0188" x="1876" y="2739" width="225" height="389" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0189" x="1876" y="2739" width="225" height="389" frameX="0" frameY="-7" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0190" x="1941" y="1955" width="225" height="390" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0191" x="1941" y="1955" width="225" height="390" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0192" x="1941" y="1955" width="225" height="390" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0193" x="1941" y="1955" width="225" height="390" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi determined0194" x="1941" y="1955" width="225" height="390" frameX="0" frameY="-6" frameWidth="246" frameHeight="475"/>
+	<SubTexture name="_komi down0000" x="0" y="0" width="286" height="393"/>
+	<SubTexture name="_komi down0001" x="0" y="0" width="286" height="393"/>
+	<SubTexture name="_komi down0002" x="526" y="784" width="258" height="391" frameX="-2" frameY="-2" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0003" x="526" y="784" width="258" height="391" frameX="-2" frameY="-2" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0004" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0005" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0006" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0007" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0008" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0009" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0010" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0011" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0012" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0013" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi down0014" x="264" y="470" width="260" height="392" frameX="0" frameY="-1" frameWidth="286" frameHeight="393"/>
+	<SubTexture name="_komi idle0000" x="1282" y="785" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0001" x="1282" y="785" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0002" x="1480" y="1174" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0003" x="1480" y="1174" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0004" x="982" y="1572" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0005" x="982" y="1572" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0006" x="775" y="1177" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0007" x="775" y="1177" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0008" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0009" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0010" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0011" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0012" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0013" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0014" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi idle0015" x="486" y="1569" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi left0000" x="0" y="1647" width="253" height="388" frameX="0" frameY="-3" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0001" x="0" y="1647" width="253" height="388" frameX="0" frameY="-3" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0002" x="243" y="2748" width="237" height="389" frameX="-21" frameY="-1" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0003" x="243" y="2748" width="237" height="389" frameX="-21" frameY="-1" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0004" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0005" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0006" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0007" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0008" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0009" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0010" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0011" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0012" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0013" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi left0014" x="733" y="2357" width="237" height="390" frameX="-21" frameY="0" frameWidth="258" frameHeight="391"/>
+	<SubTexture name="_komi right0000" x="515" y="0" width="263" height="387" frameX="-19" frameY="-6" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0001" x="515" y="0" width="263" height="387" frameX="-19" frameY="-6" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0002" x="526" y="389" width="258" height="393" frameX="-4" frameY="0" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0003" x="526" y="389" width="258" height="393" frameX="-4" frameY="0" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0004" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0005" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0006" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0007" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0008" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0009" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0010" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0011" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0012" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0013" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi right0014" x="0" y="395" width="262" height="391" frameX="0" frameY="-2" frameWidth="282" frameHeight="393"/>
+	<SubTexture name="_komi shock0000" x="486" y="1569" width="246" height="391" frameX="-20" frameY="-2" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi shock0001" x="486" y="1569" width="246" height="391" frameX="-20" frameY="-2" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi shock0002" x="786" y="786" width="235" height="389" frameX="-28" frameY="-15" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0003" x="786" y="786" width="235" height="389" frameX="-28" frameY="-15" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0004" x="0" y="788" width="255" height="398" frameX="-2" frameY="0" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0005" x="0" y="788" width="255" height="398" frameX="-2" frameY="0" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0006" x="257" y="864" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0007" x="257" y="864" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0008" x="0" y="1256" width="257" height="389" frameX="0" frameY="-9" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0009" x="0" y="1256" width="257" height="389" frameX="0" frameY="-9" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0010" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0011" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0012" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0013" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0014" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0015" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0016" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0017" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0018" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0019" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0020" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0021" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0022" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0023" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0024" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0025" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0026" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0027" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0028" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0029" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0030" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0031" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0032" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0033" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0034" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0035" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0036" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0037" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0038" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0039" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0040" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0041" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0042" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0043" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0044" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0045" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0046" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0047" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0048" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0049" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0050" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0051" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0052" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0053" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0054" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0055" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0056" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0057" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0058" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0059" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0060" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0061" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0062" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0063" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0064" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0065" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0066" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0067" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0068" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0069" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0070" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0071" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0072" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0073" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0074" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0075" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0076" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0077" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0078" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0079" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0080" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0081" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0082" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0083" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0084" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0085" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0086" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0087" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0088" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0089" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0090" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0091" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0092" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0093" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0094" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0095" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0096" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0097" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0098" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0099" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0100" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0101" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi shock0102" x="516" y="1177" width="257" height="390" frameX="0" frameY="-8" frameWidth="266" frameHeight="404"/>
+	<SubTexture name="_komi stare0000" x="1531" y="0" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0001" x="1531" y="0" width="248" height="387" frameX="0" frameY="-6" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0002" x="1532" y="778" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0003" x="1532" y="778" width="248" height="386" frameX="0" frameY="-5" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0004" x="1231" y="1572" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0005" x="1231" y="1572" width="247" height="389" frameX="-1" frameY="-3" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0006" x="786" y="0" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0007" x="786" y="0" width="246" height="391" frameX="-2" frameY="-1" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0008" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0009" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0010" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0011" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0012" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0013" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0014" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi stare0015" x="786" y="393" width="246" height="391" frameX="-2" frameY="0" frameWidth="248" frameHeight="393"/>
+	<SubTexture name="_komi up0000" x="0" y="3214" width="230" height="387" frameX="0" frameY="0" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0001" x="0" y="3214" width="230" height="387" frameX="0" frameY="0" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0002" x="482" y="2748" width="231" height="391" frameX="-1" frameY="-14" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0003" x="482" y="2748" width="231" height="391" frameX="-1" frameY="-14" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0004" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0005" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0006" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0007" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0008" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0009" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0010" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0011" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0012" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0013" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+	<SubTexture name="_komi up0014" x="237" y="3139" width="229" height="390" frameX="-3" frameY="-15" frameWidth="232" frameHeight="405"/>
+</TextureAtlas>

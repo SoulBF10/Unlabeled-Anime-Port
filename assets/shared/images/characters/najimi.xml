@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="najimi.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="_najim blink0000" x="1348" y="526" width="252" height="520" frameX="0" frameY="-12" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0001" x="1348" y="526" width="252" height="520" frameX="0" frameY="-12" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0002" x="340" y="542" width="250" height="527" frameX="-2" frameY="-3" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0003" x="340" y="542" width="250" height="527" frameX="-2" frameY="-3" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0004" x="803" y="1065" width="248" height="528" frameX="-3" frameY="-1" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0005" x="803" y="1065" width="248" height="528" frameX="-3" frameY="-1" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0006" x="1053" y="1050" width="248" height="528" frameX="-3" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0007" x="1053" y="1050" width="248" height="528" frameX="-3" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0008" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0009" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0010" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0011" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0012" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0013" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0014" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najim blink0015" x="843" y="520" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi down0000" x="955" y="0" width="287" height="518" frameX="0" frameY="-12" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0001" x="955" y="0" width="287" height="518" frameX="0" frameY="-12" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0002" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0003" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0004" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0005" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0006" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0007" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0008" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0009" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0010" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0011" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0012" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0013" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0014" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi down0015" x="1529" y="0" width="279" height="524" frameX="-3" frameY="0" frameWidth="287" frameHeight="530"/>
+	<SubTexture name="_najimi idle0000" x="1094" y="526" width="252" height="520" frameX="0" frameY="-12" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0001" x="1094" y="526" width="252" height="520" frameX="0" frameY="-12" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0002" x="301" y="1083" width="250" height="527" frameX="-2" frameY="-3" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0003" x="301" y="1083" width="250" height="527" frameX="-2" frameY="-3" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0004" x="1602" y="526" width="248" height="528" frameX="-3" frameY="-1" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0005" x="1602" y="526" width="248" height="528" frameX="-3" frameY="-1" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0006" x="553" y="1071" width="248" height="528" frameX="-3" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0007" x="553" y="1071" width="248" height="528" frameX="-3" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0008" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0009" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0010" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0011" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0012" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0013" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0014" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi idle0015" x="592" y="535" width="249" height="528" frameX="-2" frameY="0" frameWidth="252" frameHeight="532"/>
+	<SubTexture name="_najimi left0000" x="662" y="0" width="291" height="516" frameX="0" frameY="-12" frameWidth="291" frameHeight="528"/>
+	<SubTexture name="_najimi left0001" x="662" y="0" width="291" height="516" frameX="0" frameY="-12" frameWidth="291" frameHeight="528"/>
+	<SubTexture name="_najimi left0002" x="1244" y="0" width="283" height="524" frameX="-6" frameY="0" frameWidth="291" frameHeight="528"/>
+	<SubTexture name="_najimi left0003" x="1244" y="0" width="283" height="524" frameX="-6" frameY="0" frameWidth="291" frameHeight="528"/>
+	<SubTexture name="_najimi right0000" x="349" y="0" width="311" height="533"/>
+	<SubTexture name="_najimi right0001" x="349" y="0" width="311" height="533"/>
+	<SubTexture name="_najimi right0002" x="0" y="1083" width="299" height="532" frameX="-6" frameY="-1" frameWidth="311" frameHeight="533"/>
+	<SubTexture name="_najimi right0003" x="0" y="1083" width="299" height="532" frameX="-6" frameY="-1" frameWidth="311" frameHeight="533"/>
+	<SubTexture name="_najimi up0000" x="0" y="542" width="338" height="539" frameX="-5" frameY="-1" frameWidth="347" frameHeight="540"/>
+	<SubTexture name="_najimi up0001" x="0" y="542" width="338" height="539" frameX="-5" frameY="-1" frameWidth="347" frameHeight="540"/>
+	<SubTexture name="_najimi up0002" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0003" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0004" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0005" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0006" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0007" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0008" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0009" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0010" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0011" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0012" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0013" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0014" x="0" y="0" width="347" height="540"/>
+	<SubTexture name="_najimi up0015" x="0" y="0" width="347" height="540"/>
+</TextureAtlas>
