@@ -1,0 +1,41 @@
+{
+	"storyName": "Your New Week",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "naga",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"toyboy",
+			"naga",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"suspai",
+			"naoto",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
