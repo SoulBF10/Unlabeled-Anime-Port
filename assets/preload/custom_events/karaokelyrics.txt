@@ -1,0 +1,9 @@
+value 1: set or sung
+
+set = sets the main lyrics that will be sung
+
+sung = the second text the should appear when its sung
+
+value 2: the text
+
+OR make value 1 empty to use it as just normal text lyrics
