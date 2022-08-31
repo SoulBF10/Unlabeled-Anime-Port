@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "naga idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				300,
+				7
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "naga left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				126
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "naga up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "naga right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				52
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "naga down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				126
+			],
+			"anim": "hey",
+			"fps": 24,
+			"name": "naga ora",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				53
+			],
+			"anim": "gambare",
+			"fps": 24,
+			"name": "naga gambare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				0
+			],
+			"anim": "sen",
+			"fps": 24,
+			"name": "naga sen",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				112,
+				0
+			],
+			"anim": "pai",
+			"fps": 24,
+			"name": "naga pai",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nagatoro",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "naga",
+	"flip_x": false,
+	"healthbar_colors": [
+		114,
+		94,
+		145
+	],
+	"camera_position": [
+		-70,
+		0
+	],
+	"sing_duration": 16.1,
+	"scale": 1
+}

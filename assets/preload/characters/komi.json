@@ -1,0 +1,265 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "_komi idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blink",
+			"fps": 24,
+			"name": "_komi blink",
+			"indices": []
+		},
+		{
+			"offsets": [
+				60,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "_komi left"
+		},
+		{
+			"offsets": [
+				-10,
+				-30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "_komi down"
+		},
+		{
+			"offsets": [
+				30,
+				30
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "_komi up"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "_komi right"
+		},
+		{
+			"offsets": [
+				1,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "_komi alt left"
+		},
+		{
+			"offsets": [
+				0,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "_komi alt down"
+		},
+		{
+			"offsets": [
+				0,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "_komi alt up"
+		},
+		{
+			"offsets": [
+				-2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "_komi alt right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-5
+			],
+			"anim": "idle-alt2",
+			"fps": 24,
+			"name": "_komi alt2 idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt2",
+			"indices": [],
+			"name": "_komi alt2 left"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt2",
+			"indices": [],
+			"name": "_komi alt2 down"
+		},
+		{
+			"offsets": [
+				0,
+				-8
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt2",
+			"indices": [],
+			"name": "_komi alt2 up"
+		},
+		{
+			"offsets": [
+				-2,
+				-7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt2",
+			"indices": [],
+			"name": "_komi alt2 right"
+		},
+		{
+			"offsets": [
+				-2,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "determined",
+			"indices": [],
+			"name": "_komi determined"
+		},
+		{
+			"offsets": [
+				18,
+				7
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "shock",
+			"indices": [],
+			"name": "_komi shock"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "stare",
+			"indices": [],
+			"name": "_komi stare"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-2,
+				-6
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "_komi alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				20,
+				0
+			],
+			"anim": "shock-alt",
+			"fps": 24,
+			"name": "_komi alt shock",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-stare",
+			"fps": 24,
+			"name": "_komi stare",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blink-stare",
+			"fps": 24,
+			"name": "_komi blink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/komi",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "komi",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		0,
+		204
+	],
+	"camera_position": [
+		-40,
+		50
+	],
+	"sing_duration": 4.10000000000001,
+	"scale": 1
+}

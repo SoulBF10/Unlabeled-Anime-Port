@@ -1,0 +1,107 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				211,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "naga left"
+		},
+		{
+			"offsets": [
+				190,
+				-110
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "naga down"
+		},
+		{
+			"offsets": [
+				14,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "naga up"
+		},
+		{
+			"offsets": [
+				100,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "naga right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "naga idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "naga idle",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/naga",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "naga",
+	"flip_x": true,
+	"healthbar_colors": [
+		114,
+		94,
+		145
+	],
+	"camera_position": [
+		270,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

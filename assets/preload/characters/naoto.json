@@ -1,0 +1,164 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "naoto left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "naoto down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "naoto up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "naoto right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "naoto idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-9,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "naoto alt left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "naoto alt down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				50
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "naoto alt up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				27
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "naoto alt right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "naoto alt idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				6,
+				56
+			],
+			"anim": "boo",
+			"fps": 24,
+			"name": "naoto boo",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt-loop",
+			"indices": [
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "naoto alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/naoto",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "naoto",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		153,
+		0
+	],
+	"camera_position": [
+		90,
+		-50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

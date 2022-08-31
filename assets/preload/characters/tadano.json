@@ -1,0 +1,111 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "_tadano idle"
+		},
+		{
+			"offsets": [
+				78,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "_tadano left"
+		},
+		{
+			"offsets": [
+				30,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "_tadano down"
+		},
+		{
+			"offsets": [
+				-9,
+				21
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "_tadano up"
+		},
+		{
+			"offsets": [
+				-50,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "_tadano right"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "_tadano alt idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blink",
+			"fps": 24,
+			"name": "_tadano blink",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "blink-alt",
+			"fps": 24,
+			"name": "_tadano alt blink",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tadano",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "tadano",
+	"flip_x": true,
+	"healthbar_colors": [
+		102,
+		153,
+		204
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
