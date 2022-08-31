@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="drawings.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="drawings0000" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0001" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0002" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0003" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0004" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0005" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0006" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0007" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0008" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0009" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0010" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0011" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0012" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0013" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0014" x="804" y="0" width="336" height="537" frameX="-26" frameY="-29" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0015" x="425" y="0" width="377" height="534" frameX="-19" frameY="-19" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0016" x="0" y="0" width="423" height="528" frameX="0" frameY="0" frameWidth="423" frameHeight="566"/>
+	<SubTexture name="drawings0017" x="1142" y="0" width="252" height="294" frameX="-62" frameY="-139" frameWidth="423" frameHeight="566"/>
+</TextureAtlas>

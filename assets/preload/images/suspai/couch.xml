@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="couch.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="couch0000" x="0" y="0" width="469" height="209"/>
+	<SubTexture name="couch0001" x="0" y="211" width="469" height="209"/>
+</TextureAtlas>
